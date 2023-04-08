@@ -1,7 +1,7 @@
 # TravelingGuide
 A guid information port for every traveller 
 项目：中国计算机设计大赛
-组员：黄晓梅 荣宁 何脂肪
+组员：黄晓梅 荣宁 何梓方
 Server: 服务器端的项目文件
 Client: 客户端的项目文件，这里可能我们绝大多数开发Server端
 
